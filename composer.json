@@ -1,0 +1,15 @@
+{
+  "name": "tim-ur/myfirstpackage",
+  "description": "My first package",
+  "version": "1.0.0",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Timur Sabiryanov",
+      "email": "timur.sabiryanov@gmail.com"
+    }
+  ],
+  "require": {
+  }
+}
